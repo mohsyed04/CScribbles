@@ -1,4 +1,4 @@
 ---
-title: These are just some CS notes
+title: My CS notes
 ---
 
