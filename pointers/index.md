@@ -1,9 +1,11 @@
 ---
-title: My CS Notes
-layout: default
+layout: category
+title: "Pointers"
+permalink: /pointers/
 ---
 
-## Categories
+# Pointers Articles
 
-- [Pointers](/pointers/)
-- [OS](/OS/)
+{% for post in site.categories.pointers %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
