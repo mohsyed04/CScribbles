@@ -5,5 +5,5 @@ layout: default
 
 ## Categories
 
-- [Pointers](/pointers/)
-- [OS](/OS/)
+- [Pointers](/_posts/pointers/)
+- [OS](_posts/OS/)
