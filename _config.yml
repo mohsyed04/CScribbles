@@ -1,1 +1,12 @@
 theme: minima
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      categories: [pointers, OS]
